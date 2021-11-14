@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dewaara.github.io/in](https://dewaara.github.io/in)
 
-- 📝 I regularly write articles on [http://mdhalim.simplesite.com](http://mdhalim.simplesite.com)
+- 📝 I regularly write articles on [https://dewaara.github.io/in](http://mdhalim.simplesite.com)
 
 - 📫 How to reach me **dewaara786@gmail.com**
 
